@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current undergraduate student interested in machine learning especially in the fields of computer vision and natural language processing.
+Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current undergraduate student interested in machine learning, especially in the fields of computer vision and natural language processing.
 
 **Personal Links:**
 
