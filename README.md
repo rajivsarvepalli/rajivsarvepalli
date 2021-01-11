@@ -21,10 +21,9 @@ Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current underg
 
 📊 **What Lanugages do I Write Most Often?:**
 
-<p align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
-</p>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
 
 
 📈 My GitHub Stats
