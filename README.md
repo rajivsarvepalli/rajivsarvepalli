@@ -4,7 +4,7 @@ Hi, I'm [Rajiv Sarvepalli!](https://rajivsarvepalli.github.io/), a current under
 
 **Personal Links:**
 
-- 📫 How to reach me: [rajiv@sarvepalli.net](mail:rajiv@sarvepalli.net)
+- 📫 How to reach me: [rajiv@sarvepalli.net](mailto:rajiv@sarvepalli.net)
 - 📝[CV](https://rajivsarvepalli.github.io/assets/pdf/vitae.pdf)
 
 **Languages and Tools:**  
