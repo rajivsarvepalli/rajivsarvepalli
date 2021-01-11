@@ -19,12 +19,14 @@ Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current underg
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **What Lanugages do I Write:**
+📊 **What Lanugages do I Write Most Often?:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io)](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io)
+<p align="center">
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
+</p>
 
 
 📈 My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=rajivsarvepalli&show_icons=true&theme=gotham" alt="rajivsarvepalli" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajivsarvepalli&show_icons=true&theme=gotham" alt="rajivsarvepalli" />
