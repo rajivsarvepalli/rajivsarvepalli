@@ -21,12 +21,15 @@ Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current underg
 
 <!--
 📊 **This Week I Spent My Time On:**
+-->
 <!--START_SECTION:waka-->
+<!--
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
 -->
+<!--END_SECTION:waka-->
+
 
 📈 My GitHub Stats
 
