@@ -25,7 +25,3 @@ Hi, I'm [Rajiv Sarvepalli](https://rajivsarvepalli.github.io/), a current underg
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
 
-
-📈 My GitHub Stats
-
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajivsarvepalli&show_icons=true&theme=gotham" alt="rajivsarvepalli" />
